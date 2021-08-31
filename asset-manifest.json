@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/foxmulatask1/static/css/main.ee52c004.chunk.css",
+    "main.js": "/foxmulatask1/static/js/main.dd65c966.chunk.js",
+    "main.js.map": "/foxmulatask1/static/js/main.dd65c966.chunk.js.map",
+    "runtime-main.js": "/foxmulatask1/static/js/runtime-main.3c5eec11.js",
+    "runtime-main.js.map": "/foxmulatask1/static/js/runtime-main.3c5eec11.js.map",
+    "static/js/2.5e9abf11.chunk.js": "/foxmulatask1/static/js/2.5e9abf11.chunk.js",
+    "static/js/2.5e9abf11.chunk.js.map": "/foxmulatask1/static/js/2.5e9abf11.chunk.js.map",
+    "index.html": "/foxmulatask1/index.html",
+    "static/css/main.ee52c004.chunk.css.map": "/foxmulatask1/static/css/main.ee52c004.chunk.css.map",
+    "static/js/2.5e9abf11.chunk.js.LICENSE.txt": "/foxmulatask1/static/js/2.5e9abf11.chunk.js.LICENSE.txt",
+    "static/media/landscape.75295545.png": "/foxmulatask1/static/media/landscape.75295545.png",
+    "static/media/sky.daea2a6b.png": "/foxmulatask1/static/media/sky.daea2a6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c5eec11.js",
+    "static/js/2.5e9abf11.chunk.js",
+    "static/css/main.ee52c004.chunk.css",
+    "static/js/main.dd65c966.chunk.js"
+  ]
+}
