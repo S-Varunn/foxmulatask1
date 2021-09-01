@@ -39,6 +39,6 @@ section img {
 }
 @media screen and (max-width: 900px) {
   body {
-    min-height: 180vw;
+    min-height: 190vw;
   }
 }
