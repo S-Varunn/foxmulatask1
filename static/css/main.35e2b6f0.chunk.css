@@ -1,2 +1,0 @@
-*{margin:0;padding:0}body{background:#643516;min-height:1500px}section{position:relative;width:100vw;height:100vw;overflow:hidden;display:flex;align-items:center}section img{position:absolute;top:0;left:0;width:100%;object-fit:cover;pointer-events:none}#sky{height:53vw}#text{position:relative;color:#fff;font-size:7vw;margin-bottom:73vw;margin-left:38vw;font-family:"Roboto",sans-serif;z-index:1}#landscape{z-index:2}@media screen and (max-width:900px){body{min-height:190vw}}
-/*# sourceMappingURL=main.35e2b6f0.chunk.css.map */
