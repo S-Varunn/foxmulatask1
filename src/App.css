@@ -23,7 +23,7 @@ section img {
   pointer-events: none;
 }
 #sky {
-  height: 52vw;
+  height: 51vw;
 }
 #text {
   position: relative;
@@ -39,6 +39,6 @@ section img {
 }
 @media screen and (max-width: 900px) {
   body {
-    min-height: 190vw;
+    min-height: 210vw;
   }
 }
